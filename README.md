@@ -18,7 +18,7 @@ API pour gérer des utilisateurs avec Node.js, Express et TypeScript.
 
 3. **Lancement du serveur**
 
-   ```bash
+  ```bash
   npm run dev
   ```
 
